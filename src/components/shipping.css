@@ -1,0 +1,28 @@
+.shipping{
+    margin:60px 0px;
+    padding:0 20%;
+    color:rgb(31, 28, 78);
+
+}
+
+.shi{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom:50px;
+}
+
+.shipping h3{
+    line-height:80px;
+     /* padding:80px; */
+}
+
+.shipping p{
+    line-break: auto;
+    line-height:40px;
+     /* padding:80px; */
+}
+
+.para{
+    margin-bottom:30px;
+}
+

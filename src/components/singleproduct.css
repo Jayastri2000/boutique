@@ -1,0 +1,52 @@
+.single-product{
+    display:flex;
+    align-items: center;
+    gap:50px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-radius: 30px;
+    margin: 50px;
+
+}
+
+.product-one{
+ display: inline-block;
+ padding:20px;
+/* border: 3px solid black; */
+border-radius: 30px;
+
+}
+
+.button-one{
+    cursor:pointer;
+    color: rgb(33, 33, 221);
+
+   
+}
+
+.button-ones{
+    border: 1px solid darkblue;
+    outline:none;
+    border-radius: 50px;
+    padding:15px;
+    background-color: white;
+    cursor:pointer;
+    margin-top: 30px;
+    color:darkred;
+}
+
+.button-ones:hover{
+border: 3px solid darkblue;
+}
+
+.view-details{
+    outline:none;
+    padding:10px;
+    border:none;
+    border-radius: 10px;
+    color:white;
+    background-color:#007bff;
+    cursor: pointer;
+}
+.view-details:hover{
+     background-color: #0056b3; 
+}
